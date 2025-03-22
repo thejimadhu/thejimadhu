@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Thejani Madhubhashini!
 
 Undergraduate at **Open University of Sri Lanka** (BSE Hons)  
-🌱 Learning **Software QA Engineering Side**  
+🌱**Software QA Engineering Enthusiast**  
 
 ---
 
