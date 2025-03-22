@@ -18,5 +18,4 @@ Undergraduate at **Open University of Sri Lanka** (BSE Hons)
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/thejani-madhubhashini-273566323)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/thejani-madhubhashini-273566323)  
